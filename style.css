@@ -1,4 +1,9 @@
-header {
+.cabeçalho {
     background-color: pink;
-    color: pink;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.cabeçalho-imagem{
+    width: 20%;
 }
