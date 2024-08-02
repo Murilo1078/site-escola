@@ -25,11 +25,6 @@ header{
 }
 .cabeçalho-imagem{
     position:absolute;
-    right: 992px;
+    right: 500px;
     top: 22px;
-}
-.imagem2{
-    position:absolute;
-    right:758px;
-    top:1461px;
 }
