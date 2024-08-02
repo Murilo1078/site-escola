@@ -1,9 +1,35 @@
-.cabeçalho {
-    background-color: pink;
-    color: black;
-    display: flex;
-    justify-content: space-around;
+*{margin: 0px;
+  padding:0px;  
+}
+body{
+    background-color:white;
+    width: 1430px;
+    height:1700px;
+    background-position-x: 0;
+    background-position-y: 0;
+}
+header{
+    background-color: #131832;
+    width:1440px;
+    height:140px;
+    background-position-x: 0;
+    background-position-y: 0;
+}
+.fundo{
+    background-image: linear-gradient(#EAC1F9, #7DB7CD);
+}
+.nome{
+    position:absolute;
+    right: 71px;
+    top:22px;
 }
 .cabeçalho-imagem{
-    width: 20%;
+    position:absolute;
+    right: 992px;
+    top: 22px;
+}
+.imagem2{
+    position:absolute;
+    right:758px;
+    top:1461px;
 }
